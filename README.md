@@ -1,4 +1,6 @@
-# AgentCore Example
+# This should be a private repository as it probably contains AWS account information
+
+## AgentCore Example
 
 Getting Started
 https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-started-toolkit.html
