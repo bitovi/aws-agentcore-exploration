@@ -1,5 +1,3 @@
-# This should be a private repository as it probably contains AWS account information
-
 ## AgentCore Example
 
 Getting Started
