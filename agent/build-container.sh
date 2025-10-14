@@ -1,0 +1,1 @@
+docker buildx build --platform linux/arm64 -t repka-agent:arm64 --load .

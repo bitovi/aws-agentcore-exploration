@@ -1,0 +1,1 @@
+docker run --platform linux/arm64 -p 8080:8080 repka-agent:arm64

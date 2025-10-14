@@ -3,6 +3,7 @@ build/
 dist/
 *.egg-info/
 *.egg
+agent/target/
 
 # Python cache
 __pycache__/
